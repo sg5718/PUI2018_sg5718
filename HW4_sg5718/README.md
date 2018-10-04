@@ -8,5 +8,5 @@ https://github.com/sg5718/PUI2018_sg5718/blob/master/HW4_sg5718/Assignment1_sg57
 - This is a group work!
 https://github.com/sg5718/PUI2018_sg5718/blob/master/HW4_sg5718/Assignment2_Citibikes_Usertype.ipynb
 
-## Assignment 3: Finish z-test lab and turn it in as a notebook .
+## Assignment 3: Finish z-test lab.
 https://github.com/sg5718/PUI2018_sg5718/blob/master/HW4_sg5718/Assignment3_sg5718.ipynb
