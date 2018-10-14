@@ -17,7 +17,7 @@ I have a hard time coming up with a vartion on the question because I think it i
 
 *Null Hypothesis variation*: The proportion of customer type Citibike riders is greater or equal to the proportion of subscriber type Citibike riders during peak weekday hours (7am-10am and 4pm-7pm)
 
-C_weekday,peakhour - S_weekday,peakhour>=0
+C_weekday,peakhour - S_weekday,peakhour>=0 <br/>
 Where C = customer proportion and S = subscriber proportion
 
 
