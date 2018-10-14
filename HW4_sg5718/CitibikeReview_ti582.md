@@ -13,7 +13,7 @@
 For this question, I suggest using the Chi-Square test of independence. This test is typically used to compare two unpaired groups (in this case customers and subscribers) who come from the same population, to determine if there is a significant difference between the two groups. In this case, it is determining whether there is a significant difference in the proportion of customers and the proportion of subscribers using Citibike on the weekends.
 
 ## D. Suggest variations on the question
-I have a hard time coming up with a vartion on the question because I think it is well formulated. However, if I had to come up with a variation, I would suggest the following:
+I have a hard time coming up with a variation on the question because I think it is well formulated. However, if I had to come up with a variation, I would suggest the following:
 
 *Idea*: The proportion of Citibike type riders during weekday peak hours is likely to be comprised of more subscriber type riders than customer type riders. 
 
