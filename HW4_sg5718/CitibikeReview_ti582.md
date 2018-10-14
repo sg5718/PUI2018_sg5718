@@ -15,7 +15,7 @@ For this question, I suggest using the Chi-Square test of independence. This tes
 ## D. Suggest variations on the question
 I have a hard time coming up with a variation on the question because I think it is well formulated. However, if I had to come up with a variation, I would suggest the following:
 
-*Idea*: The proportion of Citibike type riders during weekday peak hours is likely to be comprised of more subscriber type riders than customer type riders. 
+*Idea*: The ratio of Citibike type riders during weekday peak hours is likely to be comprised of more subscriber type riders than customer type riders. 
 
 *Null Hypothesis variation*: The proportion of customer type Citibike riders is greater or equal to the proportion of subscriber type Citibike riders during peak weekday hours (7am-10am and 4pm-7pm)
 
