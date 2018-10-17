@@ -14,5 +14,5 @@
 |        ANCOVA     | 1, Average Number Correct  |  ordinal | 1, did sleep or no | categorical | 1, age | categorical  | Does sleep improve memory in early adolescence sample？ | Average Number Correct with sleep <= Average Number Correct without sleep| 0.05 | [Sleep Improves Memory: The Effect of Sleep on Long Term Memory in Early Adolescence](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0042191#s4) |
 
 **Result figure for ANCOVA:**  
-![](https://github.com/LuJunru/PUI2018_lj1230/blob/master/HW6_lj1230/LogisticRegression.PNG)
+![](https://github.com/sg5718/PUI2018_sg5718/blob/master/HW6_sg5718/Assignment_2_Sleep_Improve_Memory%2010.47.28%20PM.png)
 
