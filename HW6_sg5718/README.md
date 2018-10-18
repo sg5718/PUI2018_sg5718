@@ -2,9 +2,12 @@
 ## Author: Shijia Gu
 
 ### Assignment 1：Citibike Hypothesis Testing Review
-- Readme link: https://github.com/sg5718/PUI2018_sg5718/blob/master/HW6_sg5718/Assignment_1_CitibikeReview_sg5718.md
-- Fork link: https://github.com/sg5718/PUI2018_jc9033/blob/master/HW4_jc9033/CitibikeReview_sg5718.md
-- PullRequest: ![](https://github.com/sg5718/PUI2018_sg5718/blob/master/HW6_sg5718/Assignment_1_pullrequest_sg5718.png)
+- Readme link: 
+https://github.com/sg5718/PUI2018_sg5718/blob/master/HW6_sg5718/Assignment_1_CitibikeReview_sg5718.md
+- Fork link: 
+https://github.com/sg5718/PUI2018_jc9033/blob/master/HW4_jc9033/CitibikeReview_sg5718.md
+- PullRequest: 
+![](https://github.com/sg5718/PUI2018_sg5718/blob/master/HW6_sg5718/Assignment_1_pullrequest_sg5718.png)
 
 ### Assignment 2：
 - note: Only this is a group work
@@ -24,9 +27,11 @@
 - **Result figure for Logistic Regression:**  
 ![](https://github.com/sg5718/PUI2018_sg5718/blob/master/HW6_sg5718/Assignment_2_LogisticRegression.PNG)
 
-### Task3：
-- link: https://github.com/sg5718/PUI2018_sg5718/blob/master/HW6_sg5718/Assignment3_sg5718.ipynb
+### Assignment 3：
+- link: 
+https://github.com/sg5718/PUI2018_sg5718/blob/master/HW6_sg5718/Assignment3_sg5718.ipynb
 
-### Task4：
-- link: https://github.com/sg5718/PUI2018_sg5718/blob/master/HW6_sg5718/Assignment4_sg5718.ipynb
+### Assignment 4：
+- link: 
+https://github.com/sg5718/PUI2018_sg5718/blob/master/HW6_sg5718/Assignment4_sg5718.ipynb
 
