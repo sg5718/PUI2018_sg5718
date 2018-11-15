@@ -25,5 +25,8 @@
 3. In the bottom figure we can see, after removing the yearly and weekly trend from the original data, the residual left is not autocorrelated to each other thus, the residual can be treated as white noise or stationary data.
 
 ##### Review:
-
+- Clarity: The plots are very easy to read. Each plot has titles, x & y labels, legends. Also, the captions below guide me perfectly.
+- Esthetic: The plots are truly functional. The colors are chosen appropriately. The graphical elements are used appropriate to represent the quantities being visualized. The graphical choices are allowing me to focus on the right elements. 
+- Honesty: The plots are honestly reproducing the data.
+- Suggestions: : I think the author really did great jobs not only on plotting but also analyzing. The only suggestion I can come up with is to make the plots and font sizes larger.
 
